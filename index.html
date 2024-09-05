@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="images\favicon-32x32.png"
+    />
+
+    <title>Advice generator app</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <main id="container">
+      <p id="advice-number">ADVICE # 1</p>
+      <div id="advice">“ To do or don't there is no try ”</div>
+      <picture id="divider">
+        <source
+          media="(min-width:375px)"
+          srcset="images\pattern-divider-desktop.svg"
+        />
+        <source
+          media="(max-width:375px)"
+          srcset="images\pattern-divider-mobile.svg"
+        />
+
+        <img
+          src="images\pattern-divider-desktop.svg"
+          alt="Divider"
+          style="width: auto"
+        />
+      </picture>
+      <button id="btn"><img src="images\icon-dice.svg" alt="button" /></button>
+    </main>
+  </body>
+</html>
