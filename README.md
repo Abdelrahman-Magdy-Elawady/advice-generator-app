@@ -32,9 +32,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-todo-app-using-react-js-and-beautiful-drag-and-drop-qcYY1oZQSy)
+- [Solution URL:](https://www.frontendmentor.io/solutions/html-css-js-z4y-s8tNaX)
 
-- Live Site URL: [Todo App](https://todo-app-mohamedagina.vercel.app/)
+- [Live Site URL:](https://advice-generator-app-six-vert.vercel.app/)
 
 ## My process
 
