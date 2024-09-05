@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@mohamedagina](https://www.frontendmentor.io/profile/mohamedagina)
+- Frontend Mentor - [@Abdelrahman Magdy](https://www.frontendmentor.io/profile/Abdelrahman-Magdy-Elawady)
 
-- LinkedIn - [@mohamedagina](https://www.linkedin.com/in/mohamed-agina/)
+- LinkedIn - [@Abdelrahman Magdy](www.linkedin.com/in/abdelrahman-magdy-el-awady)
